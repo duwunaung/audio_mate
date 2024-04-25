@@ -1,0 +1,32 @@
+- create html base template
+
+- Create User Model 
+    - Login and Register
+    - If Loginned, View All Users
+
+- Create Home Page
+    - Show "Hello World"
+
+- Create playlist
+    - Create model with title, album_art
+    - create fontend view to save
+    - create fontend view to get all albums and edit, delete
+    - show in home page
+
+- create artist
+    - Create model with name
+    - create fontend view to save
+    - create fontend view to get all artists and edit, delete
+    - show in home page
+
+- Create Music Downloader
+    - Create model with title, artist, audio_file, album
+    - Add function to download from youtube
+    - save in database
+    - list, edit, or delete in fontend
+
+- Able to play in fontend
+    - show next play list
+    - click to play, stop, pause
+    - end of the song, play next music
+    - if end of the play list, show album end
